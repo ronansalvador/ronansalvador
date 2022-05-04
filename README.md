@@ -1,6 +1,6 @@
-<h1 align="center">Ronan Salvador</h1>
+# Ronan Salvador
 
-<h1 align="center">Estudante de Desenvolvimento Web | Trybe </h1>
+## Estudante de Desenvolvimento Web | Trybe
 
 ## Skills
 
