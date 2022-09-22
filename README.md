@@ -38,6 +38,8 @@
 
 
 ## Portfólio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronansalvador&repo=ronansalvador.github.io&theme=radical)](https://wallet-react-redux.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronansalvador&repo=trybetunes&theme=radical)](https://trybetunes-mauve.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronansalvador&repo=wallet-react-redux&theme=radical)](https://wallet-react-redux.vercel.app/)
+
 
 
