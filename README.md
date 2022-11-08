@@ -30,6 +30,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+<!--  <div align="center">
+  <a href="https://github.com/Joaogustavo789">
+  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ronansalvador&show_icons=true&theme=radical"/>
+  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronansalvador&layout=compact&theme=radical"/>
+</div> -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronansalvador&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronansalvador&layout=compact&theme=radical)
@@ -41,6 +47,7 @@
 
 ## Portfólio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronansalvador&repo=trybetunes&theme=radical)](https://trybetunes-mauve.vercel.app/)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronansalvador&repo=wallet-react-redux&theme=radical)](https://wallet-react-redux.vercel.app/)
 
 
