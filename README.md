@@ -1,7 +1,7 @@
 # Ronan Fernando Salvador
 
-## Estudante de Desenvolvimento Web Full-Stack  | Trybe
-<p>Estudo atualmente desenvolvimento web na Trybe em busca de estar atualizado com novas tecnologias, acredito em um ambiente colaborativo e busco constante crescimento profissional e pessoal.</p>
+## Desenvolvedor Web Full-Stack
+<p>Sou Desenvolvedor Fullstack, com formação em ciências da computação e experiência com testes de funcionalidade e gerenciamento de equipes. Acredito em um ambiente colaborativo porque gosto de aprender e compartilhar</p>
 
 
 ## Skills
